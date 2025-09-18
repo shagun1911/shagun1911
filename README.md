@@ -2,9 +2,7 @@
 
 <h3 align="center">Hey there!👋 I write code, break stuff, and debug it like a wizard🚀</h3>
 
-<p align="center">
-  <img src="https://tenor.com/en-GB/view/coding-typing-big-brained-busy-sweating-gif-17808553" width="100" alt="Coder">
-</p>
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=shagun1911-dev&label=Profile%20Views&color=0e75b6&style=flat)
@@ -25,16 +23,10 @@
 
 ---
 
-### ⚡ Current Projects
-
-- **Code Sync**: A real-time code collaboration tool for seamless teamwork on code.
-- **ClassIQ**: Smart classroom management system for enhanced learning environments.
-
 ---
 
 ### 🏆 Competitive Programming & LeetCode
 
-- **LeetCode Rank**: Knight (Rating: 1867)
 - **Platform**: Focused on Codeforces and LeetCode for algorithmic problem-solving.
 
 ---
@@ -50,9 +42,7 @@
 
 ### ☕ Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/shreyshukla29/)
-- [Twitter](https://x.com/Shrey_003)
-- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn]((https://www.linkedin.com/in/shagun-yadav-a72513319/))
 
 ---
 
