@@ -1,49 +1,91 @@
-<h1 align="center"> Shagun Yadav </h1>
+<h1 align="center">Hi 👋, I'm Shagun Yadav</h1>
 
-<h3 align="center">Hey there!👋 I write code, break stuff, and debug it like a wizard🚀</h3>
-
-
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Building Real-World Tech</h3>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=shagun1911-dev&label=Profile%20Views&color=0e75b6&style=flat)
-### 🌱 Currently Learning & Goals
-
-- **Current Learning**: Algorithms, system design, and full-stack development.
-- **Goal**: To become a software developer who enjoys solving complex problems, with a passion for building real-world IoT solutions.
-
----
-
-### 👨‍💻 Tech Stack
-
-- **Frontend**: React, Next.js, Tailwind CSS, Material UI, ShadCN
-- **Backend**: Node.js, Express.js
-- **IoT Skills**: Arduino, Raspberry Pi, Embedded Systems
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Postman, Figma
-
----
-
----
-
-### 🏆 Competitive Programming & LeetCode
-
-- **Platform**: Focused on Codeforces and LeetCode for algorithmic problem-solving.
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagun1911&show_icons=true&theme=radical" alt="Your GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shagun1911&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://komarev.com/ghpvc/?username=shagun1911-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### ☕ Let's Connect!
+## 🧠 About Me
 
-- [LinkedIn]((https://www.linkedin.com/in/shagun-yadav-a72513319/))
+- 💻 I love building scalable web applications and experimenting with AI-driven systems  
+- 🛠️ Passionate about solving real-world problems through technology  
+- ⚡ I enjoy breaking things... and fixing them even better  
 
 ---
 
-> "Bugs are just misunderstood features!" 🐛
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms (DSA)  
+- System Design (Backend + Scalable Systems)  
+- Advanced Full-Stack Development  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a high-impact Software Engineer  
+- 🤖 Build intelligent systems (AI + Automation + IoT)  
+- 🌍 Create real-world products that scale  
+
+---
+
+## 👨‍💻 Tech Stack
+
+### 🖥️ Frontend
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Material UI  
+- ShadCN  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🧠 IoT & Hardware
+- Arduino  
+- Raspberry Pi  
+- Embedded Systems  
+
+### 🗄️ Databases
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+
+### 🛠️ Tools & Platforms
+- Git & GitHub  
+- Postman  
+- Figma  
+
+---
+
+## 🏆 Competitive Programming
+
+- 💡 Practicing on **LeetCode** & **Codeforces**  
+- 🧩 Focused on problem-solving & algorithmic thinking  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shagun1911&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shagun1911&theme=radical&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shagun-yadav-a72513319/
+
+---
+
+## ⚡ Fun Fact
+
+> "Bugs are just misunderstood features 🐛✨"
