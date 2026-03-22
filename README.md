@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shagun Yadav</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer | AI Systems Builder | Problem Solver  
+🚀 Full-Stack Developer | AI Systems Engineer | Scalable Backend Builder  
 </h3>
 
 <p align="center">
-I design and build scalable applications, AI-powered systems, and real-world solutions that solve meaningful problems.
+I build production-ready applications, AI-powered systems, and scalable architectures that solve real-world problems.
 </p>
 
 ---
@@ -18,102 +18,105 @@ I design and build scalable applications, AI-powered systems, and real-world sol
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer with strong focus on **backend systems & scalability**
-- 🤖 Currently building **AI-powered automation platforms (like Synervo)**
-- ⚙️ Passionate about **system design, architecture, and performance optimization**
-- 🔍 Strong interest in **real-world problem solving (AI + IoT + SaaS)**
-- 🚀 I don’t just write code — I build **products that work at scale**
+- 💻 Full-stack developer with deep focus on **backend systems & architecture**
+- 🤖 Building **AI-powered SaaS platforms (Synervo)**
+- ⚙️ Experienced in **multi-tenant systems, async processing & integrations**
+- 🔍 Strong interest in **AI, automation, and system design**
+- 🚀 I focus on building **scalable, real-world products — not just projects**
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- 🧠 Building **Synervo** – AI-powered multi-channel automation platform  
-- 🔗 Integrating **AI agents (LangChain + LLMs)** into real-world workflows  
-- 📡 Designing **multi-tenant SaaS architectures (Node.js + MongoDB)**  
-- ⚡ Creating **automation systems (webhooks, queues, async processing)**  
+- 🧠 **Synervo** – AI-powered multi-channel automation platform  
+- 🔗 AI agents using **LangChain + LLMs**  
+- ⚡ Queue-based processing using **BullMQ + Redis**  
+- 🌐 Multi-platform integrations (WhatsApp, Telegram, APIs)  
+- 🧱 Scalable backend architecture (Node.js + MongoDB)  
 
 ---
 
-## 🌱 Currently Learning
+## 🧩 Core Skills & Technologies
 
-- Advanced **Data Structures & Algorithms (DSA)**  
-- **System Design** (scalable backend, distributed systems)  
-- **AI Engineering** (LLMs, vector databases, agent workflows)  
-
----
-
-## 🎯 Career Vision
-
-- 🚀 Become a **high-impact Software Engineer**
-- 🧠 Build **AI-first products that scale globally**
-- 🌍 Work on **real-world systems (SaaS, automation, IoT, AI)**
-
----
-
-## 🧩 Core Skills
-
-### 🖥️ Frontend Development
+### 🖥️ Frontend
 - React.js  
 - Next.js  
 - Tailwind CSS  
 - Material UI  
 - ShadCN  
 
-### ⚙️ Backend Development
+---
+
+### ⚙️ Backend & API Engineering
 - Node.js  
 - Express.js  
-- REST APIs & Webhooks  
-- Authentication & Authorization  
-- Scalable API design  
+- REST APIs  
+- Webhooks Architecture  
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- Rate Limiting & Security  
 
-### 🧠 AI & System Engineering
+---
+
+### 🧠 AI & Automation
 - LangChain  
-- LLM integrations (OpenAI, etc.)  
-- Vector databases & embeddings  
-- AI agents & automation workflows  
+- OpenAI APIs  
+- Prompt Engineering  
+- AI Agents & Tool Calling  
+- Vector Search  
+- Embeddings  
 
-### 🗄️ Databases
-- MongoDB (NoSQL, indexing, multi-tenant design)  
+---
+
+### 🗄️ Databases & Storage
+- MongoDB (Indexing, Aggregation, Multi-Tenant Design)  
 - PostgreSQL  
 - MySQL  
+
+---
+
+### ⚡ System Design & Architecture
+- Multi-Tenant SaaS Architecture  
+- Queue Systems (BullMQ)  
+- Redis (Caching + Queues)  
+- Async Job Processing  
+- Event-Driven Architecture  
+- API Gateway Concepts  
+
+---
+
+### 🔌 Integrations & External APIs
+- WhatsApp Business API  
+- Telegram Bot API  
+- REST API integrations  
+- Webhook-based systems  
+
+---
 
 ### 🔌 IoT & Embedded Systems
 - Arduino  
 - Raspberry Pi  
-- Sensor-based systems  
+- Sensor Integration  
+- Embedded Programming  
 
-### 🛠️ Tools & Technologies
+---
+
+### 🛠️ Tools & DevOps
 - Git & GitHub  
 - Postman  
 - Figma  
 - Docker (basic)  
-
----
-
-## 🏗️ Featured Project
-
-### 🔥 Synervo – AI Automation Platform
-> Multi-channel AI-powered system for business automation
-
-**Key Highlights:**
-- 🤖 AI agents for chat, voice & automation  
-- 🔗 Multi-platform integrations (WhatsApp, APIs, etc.)  
-- 🧠 Knowledge base + vector search  
-- ⚡ Async processing with queues  
-- 🏢 Multi-tenant architecture  
-
-👉 *This project demonstrates real-world system design, AI integration, and scalable backend engineering.*
+- Environment & Secrets Management  
 
 ---
 
 ## 🏆 Competitive Programming
 
-- 💡 Active on **LeetCode & Codeforces**  
-- 🧩 Focused on:
-  - Problem-solving  
-  - Algorithmic thinking  
-  - Optimization techniques  
+- 💡 Practicing on **LeetCode & Codeforces**  
+- 🧩 Focus:
+  - Data Structures  
+  - Algorithms  
+  - Optimization  
 
 ---
 
@@ -128,10 +131,10 @@ I design and build scalable applications, AI-powered systems, and real-world sol
 
 ## 📈 What Sets Me Apart
 
-- 🚀 I build **production-level systems**, not just projects  
-- 🧠 Strong focus on **architecture & scalability**  
-- 🔥 Hands-on experience with **AI + automation systems**  
-- ⚡ Ability to **learn fast and execute faster**  
+- 🚀 I build **production-level SaaS systems**  
+- 🧠 Strong understanding of **backend architecture & scalability**  
+- 🤖 Hands-on experience with **AI + automation workflows**  
+- ⚡ Skilled in **integrations & real-time systems**  
 
 ---
 
@@ -143,6 +146,4 @@ I design and build scalable applications, AI-powered systems, and real-world sol
 
 ## ⚡ Philosophy
 
-> “Great systems are not just built — they are engineered with intent, scalability, and impact.”
-
----
+> “Build systems that scale, adapt, and solve real problems — not just code that runs.”
